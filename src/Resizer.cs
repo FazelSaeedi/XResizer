@@ -6,7 +6,7 @@ using SixLabors.ImageSharp.Formats.Webp;
 using SixLabors.ImageSharp.Processing;
 using XResizer.ImageOptions;
 
-namespace XResizer
+namespace XResizer.src
 {
     public static class Resizer
     {

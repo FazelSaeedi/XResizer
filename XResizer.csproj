@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>FazelSaeedi</Authors>
     <Company>FazelSaeedi</Company>
     <Product>FazelSaeedi.XResizer</Product>

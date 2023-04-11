@@ -14,6 +14,7 @@ NuGet\Install-Package XResizer -Version 1.0.2
 
 
             var size = new ImageOptionBuilder()
+                                // x_oss_process = "q_50/h_300/w_200" ;
                                 .SetQuery(x_oss_process)
                                 .ProcessQuery()
                                 .Build();
